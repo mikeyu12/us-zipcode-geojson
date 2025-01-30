@@ -1,0 +1,4 @@
+.DS_Store
+
+data/*
+!data/fips_and_state_abbr.csv
